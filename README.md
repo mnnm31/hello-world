@@ -1,5 +1,14 @@
 # hello-world
 
+#include<iostream>
+
+using namespace std;
+
+int main() {
+	cout << "hello-world\n";
+  return 0;
+}
+
 안녕하세요.
 경희대학교에 재학중인 정태열이라고 합니다.
 영화보기와 축구하는 것을 좋아합니다.
